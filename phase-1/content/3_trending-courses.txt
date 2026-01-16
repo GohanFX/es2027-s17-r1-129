@@ -1,0 +1,47 @@
+Trending Courses Across Diverse Fields
+
+Handpicked courses across various categories to help you achieve your learning goals
+
+Technology & Software:
+- The Advanced Web Developer Bootcamp
+  - $19.99
+  - Sarah Lee
+  - 4.9
+  - 2,500+
+- The Complete 2026 PHP Full Stack Web Developer Bootcamp
+  - $109.99
+  - Sarah Lee
+  - 4.9
+  - 4,235+
+- Internet and Web Development Fundamentals
+  - $79.99
+  - Sarah Lee
+  - 4.9
+  - 20,459+
+- CSS, Bootstrap ,JavaScript, Web Development Course
+  - $49.99
+  - Sarah Lee
+  - 4.9
+  - 2,500+
+
+Design & UX/UI:
+- Complete Web & Mobile Designer in 2026: UI/UX, Figma, +more
+  - $89.99
+  - Alex Chen
+  - 4.8
+  - 3,200+
+- UX Design Masterclass: User Experience Design Course
+  - $74.99
+  - Maria Rodriguez
+  - 4.9
+  - 5,100+
+- Adobe XD UI/UX Design: From Zero to Advanced
+  - $59.99
+  - James Wilson
+  - 4.7
+  - 2,800+
+- Figma UI/UX Design Essentials: Complete Design System
+  - $64.99
+  - Emma Thompson
+  - 4.8
+  - 4,500+
