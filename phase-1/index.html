@@ -13,7 +13,7 @@
         <p>🔥 Limited Time Offer: Get 50% Off on All Courses!</p>
     </div>
     <header>
-        <div class="container header-content">
+        <div class="header-content">
             <div class="logo">
                 <img src="/assets/logo.svg" alt="">
             </div>
@@ -36,7 +36,7 @@
     <nav>
         <ul>
             <li>
-                <a href="#technology">Technology & Software 
+                <a href="#technology">Technology & Software
                     <span class="chevron-down">
                         <img src="/assets/chevron-down.svg" alt="Chevron Down">
                     </span>
@@ -47,7 +47,7 @@
                     <span class="chevron-down">
                         <img src="/assets/chevron-down.svg" alt="Chevron Down">
                     </span>
-                </a> 
+                </a>
             </li>
             <li>
                 <a href="#it">IT & Software
@@ -103,10 +103,10 @@
                     <img src="/assets/round-avatar-4.png" alt="Avatar 1">
                     <img src="/assets/round-avatar-5.png" alt="Avatar 1">
                     <div class="learners-count">
-                        25K+
+                        +25K
                     </div>
                     <div class="learners-text">
-                       Join with us 
+                        Join with us
                     </div>
                 </div>
                 <a class="btn" style="width: 200px;text-decoration: none;" href="/phase-2">Browse All Courses</a>
@@ -119,7 +119,8 @@
 
         <section id="business">
             <h2 class="section-title">
-                Trusted by <span class="text-primary" style="text-decoration: underline;font-weight: 700;">200+ Leading Companies and
+                Trusted by <span class="text-primary" style="text-decoration: underline;font-weight: 700;">200+ Leading
+                    Companies and
                     Universities</span>
             </h2>
             <div class="partners-logos">
@@ -131,7 +132,48 @@
                 <img src="/assets/cisco-logo.png" alt="Cisco">
             </div>
         </section>
+        <section class="container trending-courses">
+            <h2>
+                Trending Courses Across Diverse Fields
+            </h2>
+            <p style="opacity: 0.80;">
+                Handpicked courses across various categories to help you achieve your learning goals
+            </p>
+            <div class="tabs">
+                <input type="radio" id="tab1" name="tab-group" checked onchange="changeTab('tab1')">
+                <label for="tab1"  class="tab active">Technology & Software</label>
+                <input type="radio"  id="tab2" name="tab-group" onchange="changeTab('tab2')">
+                <label for="tab2" class="tab">Design & UX/UI</label>
+            </div>
+            <div class="course-cards-container">
+                <div class="course-card">
+                    <img src="/assets/course-1.png" alt="Course 1">
+                    <h3 class="course-card-title">The Advanced Web Developer Bootcamp</h3>
+                    <p>Sarah Lee</p>
+                    <p class="course-price">$19.99</p>
+                    <div class="course-info">
+                        <div style="display: flex; align-items: center;">
+                            <div class="rating-container">
+                            <img src="/assets/star-filled.svg" alt="Star Icon">
+                        </div>
+                         <span class="rating">4.9</span>
+                        </div>
+                        <div class="card-learners flex">
+                            <span class="learners">2,500+</span>
+                            <div class="learners">
+                                <img src="/assets/learner-avatar-1.png" alt="Learner Avatar 1">
+                                <img src="/assets/learner-avatar-2.png" alt="Learner Avatar 2">
+                                <img src="/assets/learner-avatar-3.png" alt="Learner Avatar 3">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+               
+        </section>
     </main>
+
+    <script src="index.js"> </script>
 </body>
 
 </html>
